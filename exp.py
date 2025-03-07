@@ -33,7 +33,7 @@ title_style.alignment = 1
 
 # creating the paragraph with 
 # the heading text and passing the styles of it 
-title = Paragraph( "GeeksforGeeks" , title_style ) 
+title = Paragraph( "RECEIPT" , title_style ) 
 
 # creates a Table Style object and in it, 
 # defines the styles row wise 
