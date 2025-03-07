@@ -13,7 +13,7 @@ DATA = [
 		"Lifetime", 
 		"10,999.00/-", 
 	], 
-	[ "16/11/2020", "Geeks Classes: Live Session", "6 months", "9,999.00/-"], 
+	[ "16/11/2020", "Sukumar Git hub online classes", "6 months", "9,999.00/-"], 
 	[ "Sub Total", "", "", "20,9998.00/-"], 
 	[ "Discount", "", "", "-3,000.00/-"], 
 	[ "Total", "", "", "17,998.00/-"], 
